@@ -1,0 +1,6 @@
+{
+  "name": "AdSense Approval Checker",
+  "description": "An advanced AdSense Approval eligibility analysis workspace optimized for web platforms and simulated mobile displays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
